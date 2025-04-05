@@ -22,4 +22,4 @@ I am a PhD student at the University of Chicago, advised by Professor <a href="h
 Contact: <first_name><last_name> at uchicago dot edu
 
 # Publications
-{% include publications.html %}
+
