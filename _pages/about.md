@@ -22,4 +22,50 @@ I am a PhD student at the University of Chicago, advised by Professor <a href="h
 Contact: <first_name><last_name> at uchicago dot edu
 
 # Publications
+<style>
+  body {
+    max-width: 1200px; /* Change this value to your desired width */
+  }
+</style>
 
+<h4 class="news-style" style="margin-top: 20px">Peer-Reviewed Publications</h4>
+<hr class="news-style" style="width: 95%; ">
+
+<table id="papersTable" style="border-collapse: collapse;">
+  <tr>
+    <td class="table-left-column-with-text-color"><b>HotCarbon'24</b></td>
+    <td class="table-right-column">
+	  <b>Understanding the Operational Carbon Footprint of Storage Reliability and Management</b><br>
+          <i>Varsha Rao, Andrew A Chien.<i><br>
+	  <i>The 3rd Workshop on Sustainable Computer Systems(<a class="useful-links" href="https://hotcarbon.org/2024" target="_blank"><b>HotCarbon</b></a>). Santa Cruz, CA, USA. July, 2024.</i><br>
+	  <a class="useful-links" href="https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final61.pdf" target="_blank">Paper</a>
+	</td>
+  </tr>
+  <tr>
+    <td class="table-left-column-with-text-color"><b>e-Energy'24</b></td>
+    <td class="table-right-column">
+	  <b>Exploding AI Power Use: an Opportunity to Rethink Grid Planning and Management</b><br>
+	  <i>Liuzixuan Lin, Rajini Wijayawardana, Varsha Rao, Hai Nguyen, Emmanuel Wedan GNIBGA, Andrew A Chien.</i><br>
+	  <i>The 15th ACM International Conference on Future and Sustainable Energy Systems (<a class="useful-links" href="https://energy.acm.org/conferences/eenergy/2024/" target="_blank"><b>e-Energy</b></a>). Singapore, Singapore. July, 2024.</i><br>
+	  <a class="useful-links" href="https://dl.acm.org/doi/pdf/10.1145/3632775.3661959" target="_blank">Paper</a>
+	</td>
+  </tr>
+  <tr>
+    <td class="table-left-column-with-text-color"><b>HotCarbon'23</b></td>
+    <td class="table-right-column">
+	  <b>Reducing the Carbon Impact of Generative AI Inference (today and in 2035)</b><br>
+	  <i>Andrew A Chien, Liuzixuan Lin, Hai Nguyen, Varsha Rao, Tristan Sharma, Rajini Wijayawardana (all authors contributed equally).</i><br>
+	  <i>The 2nd Workshop on Sustainable Computer Systems (<a class="useful-links" href="https://hotcarbon.org/2023" target="_blank"><b>HotCarbon</b></a>). Boston, MA, USA. July, 2023.</i><br>
+	  <a class="useful-links" href="https://dl.acm.org/doi/pdf/10.1145/3604930.3605705" target="_blank">Paper</a>
+	</td>
+  </tr>
+  <tr>
+    <td class="table-left-column-with-text-color"><b>HotCarbon'22</b></td>
+    <td class="table-right-column">
+	  <b>Beyond PUE: Flexible Datacenters Empowering the Cloud to Decarbonize</b><br>
+	  <i>Andrew A Chien, Chaojie Zhang, Liuzixuan Lin, Varsha Rao.</i><br>
+	  <i>The 1st Workshop on Sustainable Computer Systems (<a class="useful-links" href="https://hotcarbon.org/2022" target="_blank"><b>HotCarbon</b></a>). San Diego, CA, USA. July, 2022.</i><br>
+	  <a class="useful-links" href="https://par.nsf.gov/servlets/purl/10400420" target="_blank">Paper</a>
+	</td>
+  </tr>
+</table>
