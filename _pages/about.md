@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Varsha Rao
+[# Varsha Rao]: #
+# About
 
 <p>
 I am a PhD student at the University of Chicago, advised by Professor <a href="http://people.cs.uchicago.edu/~aachien/">Andrew A.Chien</a>. My research focuses on carbon accounting methodologies for research computing systems, reducing the carbon footprint of distributed storage systems, and developing carbon information services. I am interested in designing sustainable computing systems.
