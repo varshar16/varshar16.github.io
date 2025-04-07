@@ -28,7 +28,7 @@ author:
   location         : #"Earth"
   employer         : "University of Chicago"
   uri              : # URL
-  email            : "varsharao@uchicago.edu"
+  email            : #"varsharao@uchicago.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
